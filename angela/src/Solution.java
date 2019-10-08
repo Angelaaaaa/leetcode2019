@@ -13,6 +13,6 @@ public class Solution {
 //          easy.s1207.uniqueOccurrences(s1207);
 
 //        easy.s1189.maxNumberOfBalloons("balon");
-
+//        easy.s1175.numPrimeArrangements(100);
     }
 }
